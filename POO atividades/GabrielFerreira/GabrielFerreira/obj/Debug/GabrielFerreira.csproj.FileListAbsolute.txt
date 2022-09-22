@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\bin\Debug\GabrielFerreira.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\bin\Debug\GabrielFerreira.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\bin\Debug\GabrielFerreira.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\obj\Debug\GabrielFerreira.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\obj\Debug\GabrielFerreira.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\obj\Debug\GabrielFerreira.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\obj\Debug\GabrielFerreira.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO atividades\GabrielFerreira\GabrielFerreira\obj\Debug\GabrielFerreira.pdb

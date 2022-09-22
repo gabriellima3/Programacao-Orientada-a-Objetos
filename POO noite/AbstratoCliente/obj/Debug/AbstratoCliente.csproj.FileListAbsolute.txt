@@ -1,0 +1,8 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\bin\Debug\AbstratoCliente.exe.config
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\bin\Debug\AbstratoCliente.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\bin\Debug\AbstratoCliente.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.exe
+C:\Users\gabri\OneDrive\Documentos\GitHub\POO\POO noite\AbstratoCliente\obj\Debug\AbstratoCliente.pdb
